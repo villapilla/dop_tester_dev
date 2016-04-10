@@ -1,6 +1,6 @@
 {
-  "name": "meanjs",
-  "description": "Fullstack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "dop-tester",
+  "description": "Aplicación para lanzar pruebas unitarios en javaScript",
   "homepage": "http://meanjs.org/",
   "license": "MIT",
   "dependencies": {
